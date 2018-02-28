@@ -6,7 +6,7 @@ Data Entry work made easy
 
 # Feature Request
 
-1. Should be able paste the Clipboard-text copied before the Image To Typing Software launched/opened into text field of Image To Typing Software after it has launched.
+1. Should be able to paste the Clipboard-text copied before the Image To Typing Software launched/opened into text field of Image To Typing Software after it has launched.
 
 Steps:
 Setup Image To Typing Software before doing the following steps. Import image file into it first.
